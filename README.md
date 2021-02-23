@@ -13,3 +13,13 @@ link - Nature Commentary on the Human Cell Atlas - https://www.nature.com/news/t
 https://hemberg-lab.github.io/scRNA.seq.course/
 https://github.com/SingleCellTranscriptomics
 https://r4ds.had.co.nz/
+
+
+https://broadinstitute.github.io/2019_scWorkshop/single-cell-resources.html#comprehensive-list-of-single-cell-resources
+
+https://github.com/seandavi/awesome-single-cell
+
+http://bioconductor.org/books/release/OSCA/normalization.html#motivation
+
+
+
